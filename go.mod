@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/samber/lo v1.44.0
-	go.uber.org/goleak v1.2.1
+	go.uber.org/goleak v1.3.0
 )
 
 require (
