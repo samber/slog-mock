@@ -3,8 +3,8 @@ module github.com/samber/slog-mock
 go 1.21
 
 require (
-	github.com/samber/lo v1.49.1
+	github.com/samber/lo v1.50.0
 	go.uber.org/goleak v1.3.0
 )
 
-require golang.org/x/text v0.21.0 // indirect
+require golang.org/x/text v0.22.0 // indirect
